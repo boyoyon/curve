@@ -15,7 +15,9 @@
 ・Numpy <br>
 ・matplotlib　　　　･･･ matplotlib 版<br>
 ・PyOpenGL, glfw　･･･ OpenGL版 [検討中]<br>
-
+<br>
+・imageio　　　　　･･･ images_to_gif.py で連写したpngをgif化する場合<br>
+・scipy　　　　　　･･･ 微分方程式を解いてplotする場合<br>
 </p>
 <h3>使い方</h3>
 <p>
