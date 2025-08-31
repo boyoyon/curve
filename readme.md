@@ -2,7 +2,7 @@
     <head>
         <meta charset="utf-8" />
     </head>
-    <body>
+<body>
 <h1><center>Curve</center></h1>
 <h2>なにものか？</h2>
 <p>
@@ -57,6 +57,5 @@
 　　視点を変えて曲線を連写する<br>
 　　・python curve_continuous_shooting_opengl.py<br>
 </p>
-
     </body>
 </html>
