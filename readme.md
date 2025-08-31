@@ -57,6 +57,7 @@
 　　視点を変えて曲線を連写する<br>
 　　・python curve_continuous_shooting_opengl.py<br>
 </p>
+ついでに･･･
 <h3>ODEプロット</h3>
 <p>
 初期値とパラメータを与えて scipy で常微分方程式を解いてもらうと、同じ要領で曲線表示できる。<br>
