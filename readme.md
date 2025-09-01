@@ -6,7 +6,8 @@
 <h1><center>Curve</center></h1>
 <h2>なにものか？</h2>
 <p>
-パラメータつき曲線 (x(t),y(t)) を表示するプログラムです。
+パラメータつき曲線 (x(t),y(t)) を表示するプログラムです。<br>
+・(t, x(t), y(t)) を 3D表示する。
 </p>
 <center><img src="images/curve.gif"></center>
 <h3>環境構築</h3>
@@ -63,6 +64,7 @@
 <h3>ODEプロット</h3>
 <p>
 初期値とパラメータを与えて scipy で常微分方程式を解いてもらうと、同じ要領で曲線表示できる。<br>
+・(x(t),y(t),z(t))を3D表示する (3D表示に t軸が現れない)。
 ・scipyがインストールされていない場合は scipy をインストールする<br>
 ・python ode_curve_plot.py
 </p>
