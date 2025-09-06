@@ -52,14 +52,22 @@
 </p>
 
 <p>
-[2] OpenGL で曲線を表示する [検討中]<br>
+[2] OpenGL で曲線を表示する<br>
 <br>
 　　曲線を表示しマウスドラッグで視点を変える<br>
 　　・python curve_opengl.py<br>
 <br>
 　　視点を変えて曲線を連写する<br>
 　　・python curve_continuous_shooting_opengl.py<br>
+    <br>
+　　　設定は "config_opengl.ini" に記述する。<br>
+　　　式の t を t*Xscale, t*Zscale に変えるなどイマイチな仕様に･･･<br>
 </p>
+<p>
+　リサージュを3D表示したらおもしろいかと思ったが, これまたイマイチ･･･
+</p>
+<center><img src="images/curve_opengl.gif"></center>
+<br>
 ついでに･･･
 <h3>ODEプロット</h3>
 <p>
