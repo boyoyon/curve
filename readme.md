@@ -77,5 +77,14 @@
 ・python ode_curve_plot.py
 </p>
 <center><img src="images/ode_plot.gif"></center>
+<p>
+・python ode_curve_opengl.py<br>
+・ドラッグ ･･･ 曲線の回転<br>
+・右クリック+ドラッグ ･･･ 曲線の移動<br>
+・Aキー押下 ･･･ 座標軸の表示/消去<br>
+・Sキー押下 ･･･ スクリーンショット<br>
+・ESCキー ･･･ プログラム終了
+</p>
+<center><img src="images/ode_curve_opengl.gif"></center>
     </body>
 </html>
