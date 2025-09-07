@@ -80,6 +80,7 @@
 <p>
 ・python ode_curve_opengl.py<br>
 ・ドラッグ ･･･ 視点の回転(yaw, pitch)<br>
+・矢印キー押下 ･･･ 視点の回転(yaw, pitch)<br>
 ・右クリック+ドラッグ ･･･ 視点の移動<br>
 ・ホイール回転 ･･･ 視点の遠近<br>
 ・Rキー押下＋ホイール回転 ･･･ 視点の回転(roll)<br>
