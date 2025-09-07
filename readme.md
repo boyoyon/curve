@@ -79,9 +79,10 @@
 <center><img src="images/ode_plot.gif"></center>
 <p>
 ・python ode_curve_opengl.py<br>
-・ドラッグ ･･･ 視点の回転<br>
-・右クリック+ドラッグ ･･･ 視線の移動<br>
+・ドラッグ ･･･ 視点の回転(yaw, pitch)<br>
+・右クリック+ドラッグ ･･･ 視点の移動<br>
 ・ホイール回転 ･･･ 視点の遠近<br>
+・Rキー押下＋ホイール回転 ･･･ 視点の回転(roll)<br>
 ・Aキー押下 ･･･ 座標軸の表示/消去<br>
 ・Sキー押下 ･･･ スクリーンショット<br>
 ・ESCキー ･･･ プログラム終了
