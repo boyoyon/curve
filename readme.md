@@ -96,5 +96,25 @@
 ・ESCキー ･･･ プログラム終了
 </p>
 <center><img src="images/ode_curve_opengl.gif"></center>
+<h3>3Dメッシュ化した曲線を表示する</h3>
+<p>
+・環境構築<br>
+　pip install open3d<br>
+・使い方<br>
+　python  src\o3d_display_mesh_with_key_callback.py  (3D mesh ファイル) <br>
+  例) python  src\o3d_display_mesh_with_key_callback.py  data\chaos.ply <br>
+  例) python  src\o3d_display_mesh_with_key_callback.py  data\uzu.ply <br>
+<br>
+　左クリック+ドラッグ ･･･ モデル回転<br>
+　ホイールボタン押下+ドラッグ･･･モデル移動<br>
+　ホイール回転･･･モデルの拡大/縮小<br>
+　PrintScreenキー押下･･･スクリーンショット保存<br>
+　@キー押下/［キー押下･･･画角を狭める/広げる<br>
+　キー１押下/キー２押下･･･モデル回転(yaw)<br>
+　キー３押下/キー４押下･･･モデル回転(pitch)<br>
+　キー５押下/キー６押下･･･モデル回転(roll<br>
+</p>
+
+
     </body>
 </html>
